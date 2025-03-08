@@ -1,0 +1,23 @@
+body{
+    background-image: url(images/image18.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#spec1{
+    background-color: aquamarine;
+    border: 5px solid red;
+    border-style: dashed;
+    border-top-style: dotted;
+    border-radius: 20px;
+}
+
+
+#spec2{
+    background-color: rgb(25, 116, 85);
+    border-bottom: 5px solid red;
+    
+    border-bottom-style: dashed;
+}
